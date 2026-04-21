@@ -1,4 +1,4 @@
-# 🚀 Dev-Master: Otimização & Manutenção (Windows 11 e 10)
+# 🚀 Dev-Master: Otimização & Manutenção Windows
 
 <img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/20e5abe1-5f9f-4920-b793-7c9591bf68d7" />
 
